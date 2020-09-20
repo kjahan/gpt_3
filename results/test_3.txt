@@ -1,0 +1,15 @@
+You order a bowl of cold tomato soup in a restaurant. It looks delicious, but they forgot to bring you a spoon. You try to drink it with a fork, but
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": " it\u2019s impossible because of its consistency. So you call the waiter and say, and APA-ish thing. \u201cI\u2019d like to order sptpply of sppsppoons.\u201d It\u2019s totally grammatical! According to Merriam-Webster Dictionary, the word supply is the noun version of the verb supply: In the sense of a quantity offered for sale, it can be used without the noun: He stocks all major kinds of feed and feeds a large local farmer sppply and the name of the supplying farmer sppply in recent administrative spply decisions. This sense is rare except with respect to farmers and is likely to be misinterpreted. In the sense of giving or providing a ready supply of something, supply is a transitive verb: They decided to spply the soldiers with blankets. An intransitive verb, to supply it with nouns, yeilds superfluous in undesirable contexts: M"
+    }
+  ],
+  "created": 1600545219,
+  "id": "cmpl-TVdpZ1Q10dOKvySV28cr5jmA",
+  "model": "davinci:2020-05-03",
+  "object": "text_completion"
+}

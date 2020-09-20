@@ -1,0 +1,15 @@
+prompt: You are eight years old. When you were born, your mother was in Barcelona and your father was in Tokyo, so you were born in
+gpt-3: {
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": " Madrid. Your parents left you with your grandmother Juana Pardo, the woman who sits and tells you the shortest stories in the world. You only understood her after she died, when you found she had kept a little notebook with all the stories of her life in it, including things she\u2019d never told you. Now, when you read, you feel close to her. She left you a bunch of stories inside books, which is pretty much the best inheritance she could have given you."
+    }
+  ],
+  "created": 1600153063,
+  "id": "cmpl-013FOBcPsgZjUJgENpu78p3L",
+  "model": "davinci:2020-05-03",
+  "object": "text_completion"
+}

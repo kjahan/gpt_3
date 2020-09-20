@@ -1,0 +1,15 @@
+You order a bowl of cold tomato soup in a restaurant. It looks delicious, but they forgot to bring you a spoon. You try to drink it with a fork, but
+gpt-3: {
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": " there are so many annoyingly-fragile tomatoes on top. You decide to throw caution to the wind and just dive right in with your hands.\n\nYou fail and for the rest of the day your arms look like Chet\u2019s as he wields the singlestick. But then, once the pain subsides, it feels a little like you are wearing a new suit of hot-wired battle armor forged of perfectly symmetrical skin grafts. Ain\u2019t science"
+    }
+  ],
+  "created": 1600153058,
+  "id": "cmpl-ws7Ru83072h8Z3zln73NNIBi",
+  "model": "davinci:2020-05-03",
+  "object": "text_completion"
+}
