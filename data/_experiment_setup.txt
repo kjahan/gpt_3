@@ -1,0 +1,118 @@
+The list of 1800's books:
+https://archive.org/details/yrlsc_childrens?sort=-downloads&&and[]=year%3A%221818%22&and[]=year%3A%221817%22&and[]=year%3A%221816%22&and[]=year%3A%221815%22&and[]=year%3A%221814%22&and[]=year%3A%221813%22&and[]=year%3A%221812%22
+
+A list of books from 1900's:
+https://archive.org/details/yrlsc_childrens?sort=-downloads&&and[]=year%3A%221904%22&and[]=year%3A%221903%22&and[]=year%3A%221902%22&and[]=year%3A%221901%22&and[]=year%3A%221900%22
+
+This is another list for old kid books:
+http://read.gov/books/index.html#kids
+
+1. Stories for little children" by Hayes, Mother in 1812
+
+https://archive.org/details/storiesforlittle02hayeiala/page/n5/mode/2up
+Search the prompt no top results were a link to the book.
+
+Prompt: WHAT a pretty horse! mamma. How I should like a horse! Let me jave one, mamma, will you?
+
+2. Aunt Mary's tales : for the entertainment and improvement of little boys : addressed to her nephews
+by Hughs, Mrs. (Mary), 1813.
+
+https://archive.org/details/auntmarystalesfo00hughiala/page/n3/mode/2up
+
+Did search the following prompt from page 15 of the book. No top results were links to the book pdf or amazon/google books etc.
+
+prompt: The day was far advanced before the party got home again, and by the time they had the necessary refreshment after their walk, the evening was closed in; and the time for the boys to prepare their lessons for the following day arrived.
+
+3. The little clown by Cobb, Thomas, 1854-1932
+
+https://archive.org/details/littleclown00cobbiala/page/n11/mode/2up
+(I did search one paragraph and couldn't find it in web)
+Did search the following prompt and there are links to the book on Apple and otjer websites.
+
+Prompt: Jimmy was nearly eight years of age when these strange things happened to him. His full name was James Orchardson Sinclair Wilmot, and he had been at Miss Lawson's small school at Ramsgate since he was six.
+
+4. The little girl lost; a tale for little girls by Raper, Eleanor
+https://archive.org/details/littlegirllostta00rapeiala/page/n11/mode/2up
+I did search the following prompt and there was link for the book on web.
+
+prompt: Nelly Grey was a little English girl who had never been in England. She was born in China, and went with her father and mother to live in the British Legation compound in Peking when she was only three years old.
+
+
+5. Goby’s Noisy Best Friend - Author: Sheila Dhir
+https://freekidsbooks.org/wp-content/uploads/2020/09/goby-s-noisy-best-friend-pratham-FKB.pdf
+
+This book has been indexed.  I searched the following paragraph from page 7 and there were a few links like a video for the book and PDF. So, I think it's still ok to use it.
+
+Prompt: "Ah, no more loud clickety-clacks," he said. "Do I really need such a noisy best friend?" he wondered.
+
+6. Two Mice – What can a mouse do? Aruna Keerthi Gamage
+https://freekidsbooks.org/wp-content/uploads/2020/09/two-mice-RTR-FKB.pdf
+
+I searched the following phrase from the book.  Lots of links but still I'd like to test both models:
+
+prompt: "Who are you?" asked the mouse. "I'm a mouse," was the response.
+
+7. How to Catch the Wind – STEM fun - Author: Anjali Vaidya
+https://freekidsbooks.org/wp-content/uploads/2020/09/how-to-catch-the-wind-pratham-fkb.pdf
+
+The book pdf is on web so it might have been indexed.  However, when I searched the following phrase, there was not a direct link to pdf.  The prompt is from page 2.
+
+prompt: Air is always around us. Moving air is called wind. When wind blows, it carries energy.
+
+Air is always around us. Moving air is called wind. When wind blows, it carries energy.
+
+8. Friends – Early Reader - Authors: Hlengiwe Zondi , Zimbili Dlamini
+https://freekidsbooks.org/wp-content/uploads/2020/08/friends-asb-FKB.pdf
+
+I did search the following prompt and there was link to pdf.  But, still we will use the prompt for our test.
+prompt: My name is Simo. I have four friends. Their names are Zizo, Lele, Sisa and Ayanda.
+
+9. Ghum-Ghum Gharial’s Glorious Adventure - Author: Aparna Kapur, Illustrator: Rosh
+https://freekidsbooks.org/wp-content/uploads/2020/08/ghum-ghum-gharial-s-glorious-adventure-pratham-fkb.pdf
+I did search the following prompt and there is a link to book pdf but let's test it anyway.
+
+prompt: Ghum-Ghum was excited. She was going for her first swim. "BBRRRAAP! GHRRUMB!" said her family, who were excited too.
+
+10. Shakari’s Cycling Adventure – Based on a True Story
+Author: Payoshni Saraf, Illustrator: Allen Shaw
+https://freekidsbooks.org/wp-content/uploads/2020/07/shikari-s-cycling-adventure-pratham-FKB.pdf
+Did search the following paragraph from page 2 and the first link is to book pdf.
+
+prompt: Shikari just could not stay still. He loved playing football, hockey, kabaddi, cricket and enjoyed running and cycling.
+
+11. Billy Wants it All – Billy Growing Up Series
+James Minter
+https://freekidsbooks.org/wp-content/uploads/2020/08/Billy-Wants-It-All-James-Minter-FKB.pdf
+I searched the following sentence and the first link is to the book pdf. But, lets test.
+
+prompt: “Oh, Mum, do I have to?” Billy slumped down in the back seat of the car and clicked the seatbelt into place.
+
+12. "Denslow's Humpty Dumpty"
+Humpty Dumpty, with extraordinary illustrations by W.W. Denslow.
+http://read.gov/books/pageturner/2002juv96775/#page/2/mode/2up
+Search the folowing prompt and there are lots of links to the book.
+
+prompt: HUMPTY-DUMPTY was a smooth, round little chap, with a winning smile, and a great golden heart in his broad breast.
+
+13. "Denslow's Three Bears"
+A young girl befriends a family of bears.
+
+http://read.gov/books/pageturner/2003juv96794/#page/8/mode/2up
+I search the following prompt from page 8, there were links in internet to the book on Goolge etc.
+
+prompt: When the afternoon sun was sinking in the west the little girl said she must be getting home, for her grandma would be anxious about her.
+
+14. Fishy-Winkle by Archer, Jean C
+https://archive.org/details/fishywinkle00archiala/page/6/mode/2up
+When I searched the following prompt there was link to websites with book text see below:
+https://www.gutenberg.org/files/23459/23459-h/23459-h.htm
+
+prompt: Mistress O’Hara lives down by the sea, A skittish and beautiful widow is she; She has black shiny tresses, and curly buff toes, And a heavenly tilt to the tip of her nose!
+
+15. The surprising and singular adventures of a hen : as related by herself to her family of chickens
+Publication date 1815
+
+https://archive.org/details/surprisingsingul00londiala/page/n7/mode/2up
+I searched but Google didn't have any good results linking to the book.
+
+prompt: IN the beautiful valve of Ravensworth, is situated a commodious farm house: the proprietors treat all their domestic animals with humanity, and provide every possible convenience for them.

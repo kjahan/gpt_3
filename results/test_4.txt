@@ -1,0 +1,15 @@
+You are eight years old. When you were born, your mother was in Barcelona and your father was in Tokyo, so you were born in
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": " Bangkok because that was the easiest place to reach.\"\n\n\"So why do I have to go to Sydney to see my grandparents?\"\n\n\"They live there,\" this time, Sterling said with a little annoyance, removing a bottle of maitake mushroom broth from the refrigerator.\n\n\"Well, yes.\" The girl actually had him there. Two weeks at the most in Tokyo and then three days in Bangkok. Two months in Sydney.\n\n\"Are you going to stay there until kindergarten?\"\n\n\"Hope so.\" The fridge door was open now and he was inspecting its contents for something suitable for an eight-year-old vegetarian little girl. \"I don't get invited to too many slumber parties.\n\n\"What's a slumber party?\"\n\n\"There are too many girls at the pool. I'd swim off the cruise during the day and then sneak in for a swim in the night. I did that a couple of times, but I don"
+    }
+  ],
+  "created": 1600545231,
+  "id": "cmpl-V2SLUYbQlkNBPisxZjMU3m5q",
+  "model": "davinci:2020-05-03",
+  "object": "text_completion"
+}
