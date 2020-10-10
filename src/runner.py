@@ -44,5 +44,10 @@ def run_text_compl_experiments(filename):
 
 
 if __name__ == "__main__":
-    filename = "data/prompts.txt"
+    # filename = "data/prompts.txt"
+    # filename = "data/books_prompts_try_1_sept_24_2020.txt"
+    filename = "data/books_prompts_try_2_sept_27_2020.txt"
     run_text_compl_experiments(filename)
+    # max_tokens = 100
+    # response = text_completion("Salesforce has no expertise", max_tokens)
+    # print(response)
