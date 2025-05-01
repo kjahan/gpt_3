@@ -4,7 +4,7 @@ import openai
 import gpt
 
 
-openai.api_key = 'sk-greLNH6eTGTIs9cPDZnjxvjR8Tjhg7AyDTUB3Q9g'
+openai.api_key = ''
 
 
 def text_completion(prompt, max_tokens):
